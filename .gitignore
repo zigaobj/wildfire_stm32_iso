@@ -1,0 +1,36 @@
+#listing file
+*.map
+
+*.lst
+
+
+#proj file
+
+*.dep
+
+*uvgui.*
+*.bak
+
+JLinkLog.txt
+
+#output file
+
+*.iex
+
+*.crf
+
+*.d
+
+*.o
+
+*.hex
+
+*.axf
+
+*.htm
+
+*.lnp
+
+*.plg
+
+*.sct

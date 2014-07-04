@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\uCOS-III-Ex1\uCOS-III-Ex1.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\uCOS-III-Ex2\uCOS-III-Ex2.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\uCOS-III-Ex3\uCOS-III-Ex3.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\uCOS-III-Ex4\uCOS-III-Ex4.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>Build-All</name>
+      <member>
+        <project>uCOS-III-Ex1</project>
+        <configuration>Flash</configuration>
+      </member>
+      <member>
+        <project>uCOS-III-Ex2</project>
+        <configuration>Flash</configuration>
+      </member>
+      <member>
+        <project>uCOS-III-Ex3</project>
+        <configuration>Flash</configuration>
+      </member>
+      <member>
+        <project>uCOS-III-Ex4</project>
+        <configuration>Flash</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+
